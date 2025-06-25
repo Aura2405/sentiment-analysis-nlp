@@ -1,0 +1,13 @@
+
+---
+
+# requirements.txt
+
+```txt
+tensorflow>=2.9.0
+transformers>=4.40.0
+scikit-learn
+numpy
+pandas
+matplotlib
+jupyter
